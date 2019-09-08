@@ -3,7 +3,7 @@
 <head>
   	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   Ballarat 
-	<title>Ballarat</title>
+	<title></title>
 </head>
 <body>
   Description: 
