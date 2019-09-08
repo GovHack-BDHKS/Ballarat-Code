@@ -12,13 +12,19 @@ To attract tourist and make the city more livable we need to leverage our surrou
 datastory
 <br>
 We used different dataset from city of Ballarat. Data set used to score safe and unsafe zones of different places of the Ballarat are listed below:
+<br>
 right-to-the-night.csv
+<br>
 ballaratpublictoilet.csv
+<br>
 ballaratheritage.csv
+<br>
 ballaratcornorshop.csv
+<br>
 ballaratbikeracks.csv
+<br>
 ballaratdrinkingfountains.csv
-
+<br>
 homepage url
 http://www.kevinsequeiraprofe.wixsite.com/mysafecity
   </body>
